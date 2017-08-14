@@ -1,2 +1,2 @@
 # flashcards
-Developing flashcards gam in rails
+Flashcards gem in rails
